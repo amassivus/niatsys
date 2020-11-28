@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 BSD 3-Clause License
 
 Copyright (c) 2020, Masscollabs Services, Masscollaboration Labs, amassivus, procyberian, hwpplayers
@@ -36,3 +37,8 @@ niatsys network integrated software for your integrated systems
   * niatsys IRC network
   * niatsys P2P network
   * niatsys integrations(integration and development branches)
+=======
+# niatsys
+
+niatsys network integrated software for your integrated systems - preview(not production) 
+>>>>>>> niatsys/niatsys
